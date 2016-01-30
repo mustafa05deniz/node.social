@@ -1,1 +1,1 @@
-<h1> node.social </h1>
+<center><h1> node.social </h1></center>
