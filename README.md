@@ -1,8 +1,5 @@
-<center><h1> node.social </h1></center>
+#installation
 
 ```
-if(a<10){
-eşittir
-}
-
+npm install express
 ```
